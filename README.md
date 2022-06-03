@@ -1,9 +1,8 @@
 ### Hi, I'm Willian Silveira 👋
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando ReactJs, ReactNative, NextJs, TypeScript
-- 📫 Contate-me no email: carloscasara98@gmail.com
- ##
-
-
-## 🛠 &nbsp;Tech Stack
+- 👨🏽‍🎓 I'm a computer science student
+- 🧑🏽‍💻 I’m currently working as a Front-End Developer
+- 📚 I’m currently learning HTML, CSS, JavaScript and Java
+- 📫 How to reach me: williansilveira018@gmail.com
+ 
+###
