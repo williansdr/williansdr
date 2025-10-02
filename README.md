@@ -2,6 +2,8 @@
 
 - 👨🏽‍🎓 I'm a computer science student
 - 🧑🏽‍💻 I’m currently working as a Fullstack Developer
-- 📫 How to reach me: williansilveira018@gmail.com
- 
+- 📫 How to reach me: 
+  - williansilveira018@gmail.com
+  - https://www.linkedin.com/in/willian-sdr/
+   
 ###
